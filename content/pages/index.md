@@ -16,8 +16,7 @@ sections:
     title: >-
       WELCOME! I'M AHK, A VERSATILE VIDEO EDITOR SPECIALIZING IN CRAFTING
       ENGAGING NARRATIVES FOR BOTH SHORT AND LONG-FORM CONTENT. I TRANSFORM
-      FOOTAGE INTO COMPELLING VISUAL STORIES. EXPLORE MY PORTFOLIO AND LET'S
-      COLLABORATE ON BRINGING YOUR VISION TO LIFE THROUGH METICULOUS EDITING.
+      FOOTAGE INTO COMPELLING VISUAL STORIES.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
