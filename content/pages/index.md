@@ -13,7 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Welcome! I'm ahk, a versatile video editor specializing in crafting engaging narratives for both short-form and long-form content. I\_ transform footage into compelling visual stories. Explore my portfolio and let's collaborate on bringing your vision to life through meticulous editing."
+    title: >-
+      WELCOME! I'M AHK, A VERSATILE VIDEO EDITOR SPECIALIZING IN CRAFTING
+      ENGAGING NARRATIVES FOR BOTH SHORT AND LONG-FORM CONTENT. I TRANSFORM
+      FOOTAGE INTO COMPELLING VISUAL STORIES. EXPLORE MY PORTFOLIO AND LET'S
+      COLLABORATE ON BRINGING YOUR VISION TO LIFE THROUGH METICULOUS EDITING.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
